@@ -13,3 +13,6 @@ O objetivo da atividade foi desenvolver conhecimentos relacionados à análise e
 ## 🛠️ Desenvolvimento
 
 Durante a atividade, os dados foram trabalhados e organizados utilizando ferramentas do Excel, permitindo uma análise mais estruturada das informações sobre os transportes multimodais.
+
+<img width="725" height="412" alt="image" src="https://github.com/user-attachments/assets/6e7110ab-acbc-433a-89b6-6d8f616fc18a" />
+
