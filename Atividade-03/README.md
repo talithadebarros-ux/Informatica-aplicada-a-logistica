@@ -13,3 +13,7 @@ O objetivo da atividade foi desenvolver habilidades de organização e análise 
 ## 🛠️ Desenvolvimento
 
 Durante a atividade, os dados foram organizados e analisados por meio de tabelas e gráficos no Excel, permitindo representar as informações de maneira visual e facilitar a compreensão dos dados relacionados aos operadores de transporte multimodal.
+
+### Perguntas elaboradas e respondidas por meio da análise de gráficos:
+
+#### 1- Qual estado possui mais empresas autorizadas a realizar transporte multimodal?
