@@ -37,11 +37,23 @@ Nesta atividade, trabalhamos com uma base de dados sobre Operadores de Transport
 
 A partir das informações disponíveis na base de dados, utilizamos ferramentas do Microsoft Excel para organizar, analisar e representar os dados de forma mais clara e visual.
 
+### Perguntas elaboradas e respondidas por meio da análise de gráficos:
+
+
+#### 1- Qual estado possui mais empresas autorizadas a realizar transporte multimodal?
+
 <img width="949" height="611" alt="image" src="https://github.com/user-attachments/assets/1b3e05d6-bf00-4418-acdd-23f97bcf3b54" />
+
+
+#### 2- Qual país de origem possui mais empresas autorizadas?
 
 <img width="880" height="514" alt="image" src="https://github.com/user-attachments/assets/2d11abec-de7c-4444-b3f7-962b7de708e4" />
 
+
+#### 3- Qual país de origem possui mais empresas autorizadas?
+
 <img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/32d29671-97d5-4daf-bdda-8832a3975293" />
+
 
 # Atividade 4 – Análise de Fecundidade
 ## 📌 Descrição
@@ -78,6 +90,12 @@ Para facilitar a visualização e interpretação das informações, utilizamos 
 <img width="1545" height="709" alt="image" src="https://github.com/user-attachments/assets/03d9db6c-e693-48f9-bb27-b9e85a75990c" />
 
 # Atividade 6 – Dashboard de Fecundidade
+## 📌 Descrição
+Neste projeto, trabalhamos com um conjunto de dados governamentais abertos sobre fecundidade por idade no estado de São Paulo, abrangendo o período de 2000 a 2024.
+
+Os dados foram posteriormente utilizados no Power BI para transformar as informações em visualizações mais dinâmicas e interativas, facilitando a análise e a compreensão dos dados.
+
+
 
 
 
