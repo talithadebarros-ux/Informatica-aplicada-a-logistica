@@ -1,16 +1,16 @@
-Projeto — Análise de Fecundidade no Power BI
+# Projeto — Análise de Fecundidade no Power BI
 
-📌 Descrição
+## 📌 Descrição
 
 Neste projeto, trabalhamos com um conjunto de dados governamentais abertos sobre fecundidade por idade no estado de São Paulo, abrangendo o período de 2000 a 2024.
 
 Os dados foram posteriormente utilizados no Power BI para transformar as informações em visualizações mais dinâmicas e interativas, facilitando a análise e a compreensão dos dados.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 O objetivo do projeto foi utilizar o Power BI para transformar dados públicos em informações visuais e interativas, permitindo uma análise mais clara dos dados relacionados à fecundidade no estado de São Paulo.
 
-📊 Dados analisados
+## 📊 Dados analisados
 
 O conjunto de dados utilizado contém informações como:
 
@@ -23,14 +23,11 @@ O conjunto de dados utilizado contém informações como:
 
 Os dados abrangem o período de 2000 a 2024, possibilitando a visualização e análise das informações ao longo dos anos.
 
-📈 Desenvolvimento
+## 📈 Desenvolvimento
 
 Os dados foram importados e trabalhados no Power BI, onde foram criadas visualizações e elementos interativos para facilitar a exploração das informações.
 
 A utilização de dashboards, gráficos e filtros interativos permitiu analisar os dados de diferentes perspectivas, tornando a apresentação das informações mais dinâmica e acessível.
-
-🛠️ Ferramenta utilizada
-
 * Power BI — utilizado para tratamento, análise e criação das visualizações e dashboards interativos.
 
 📂 Arquivo
