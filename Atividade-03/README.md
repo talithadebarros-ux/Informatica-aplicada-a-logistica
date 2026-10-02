@@ -18,6 +18,8 @@ Durante a atividade, os dados foram organizados e analisados por meio de tabelas
 
 #### 1- Qual estado possui mais empresas autorizadas a realizar transporte multimodal?
 #### 2- Qual país de origem possui mais empresas autorizadas?
+#### 3- Qual país de origem possui mais empresas autorizadas?
+
 
 
 
