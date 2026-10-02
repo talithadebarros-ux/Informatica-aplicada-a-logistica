@@ -17,3 +17,5 @@ Durante a atividade, os dados foram organizados e analisados por meio de tabelas
 ### Perguntas elaboradas e respondidas por meio da análise de gráficos:
 
 #### 1- Qual estado possui mais empresas autorizadas a realizar transporte multimodal?
+<img width="949" height="611" alt="image" src="https://github.com/user-attachments/assets/30596b9d-7b53-4bc2-b273-e1d7d3487481" />
+
