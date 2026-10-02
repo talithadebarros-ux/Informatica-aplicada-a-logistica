@@ -95,6 +95,19 @@ Neste projeto, trabalhamos com um conjunto de dados governamentais abertos sobre
 
 Os dados foram posteriormente utilizados no Power BI para transformar as informações em visualizações mais dinâmicas e interativas, facilitando a análise e a compreensão dos dados.
 
+### Perguntas elaboradas e respondidas por meio da análise de gráficos:
+
+<img width="1167" height="662" alt="Captura de tela 2026-10-01 192725" src="https://github.com/user-attachments/assets/790fdcb8-748e-48c3-928a-2075343cd00f" />
+  
+
+<img width="1166" height="653" alt="Captura de tela 2026-09-24 224735" src="https://github.com/user-attachments/assets/24e5c785-f672-4b9e-90cb-c530c60beb76" />
+
+
+<img width="1163" height="588" alt="Captura de tela 2026-10-01 192747" src="https://github.com/user-attachments/assets/6fe10dae-173a-4238-a2af-b1b1b3555fec" />
+
+
+
+
 
 
 
