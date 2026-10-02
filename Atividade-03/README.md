@@ -26,6 +26,9 @@ Durante a atividade, os dados foram organizados e analisados por meio de tabelas
 
 #### 3- Qual país de origem possui mais empresas autorizadas?
 
+<img width="819" height="410" alt="image" src="https://github.com/user-attachments/assets/c14933ae-b0a7-423e-a839-b7e71d16110b" />
+
+
 
 
 
