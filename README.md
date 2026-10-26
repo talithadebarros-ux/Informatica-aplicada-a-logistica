@@ -103,7 +103,17 @@ Os dados foram posteriormente utilizados no Power BI para transformar as informa
 <img width="1166" height="653" alt="Captura de tela 2026-09-24 224735" src="https://github.com/user-attachments/assets/24e5c785-f672-4b9e-90cb-c530c60beb76" />
 
 
-<img width="1163" height="588" alt="Captura de tela 2026-10-01 192747" src="https://github.com/user-attachments/assets/6fe10dae-173a-4238-a2af-b1b1b3555fec" />
+<img width="1163" height="588" alt="Captura de tela 2026-10-01 192747" src="https://github.com/user-attachments/assets/6fe10dae-173a-4238-a2af-b1b1b3555fec" /> 
+
+# Atividade 7 - Power BI com figuras 
+## 📌 Descrição 
+
+Neste projeto, trabalhamos com um conjunto de dados abertos sobre estabelecimentos de saúde, contendo informações sobre seus respectivos CNAEs (Classificação Nacional de Atividades Econômicas), serviços especializados, tipos de estabelecimentos, entre outros dados relevantes.
+
+Após a análise inicial, os dados foram importados para o Power BI, onde desenvolvemos dashboards interativos para facilitar a visualização, a interpretação e a análise das informações.
+
+<img width="1288" height="699" alt="image" src="https://github.com/user-attachments/assets/3163125a-0a0b-461b-9483-fa97cf4dd715" />
+
 
 
 
