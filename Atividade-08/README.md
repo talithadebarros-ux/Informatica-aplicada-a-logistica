@@ -27,3 +27,4 @@ Foi desenvolvido um dashboard com três visualizações gráficas, proporcionand
 
 <img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/c415b532-41c7-491f-98e6-612922bf460d" />
 
+<img width="918" height="581" alt="image" src="https://github.com/user-attachments/assets/744dfb21-01da-492e-9dca-8ab5066e7268" />
