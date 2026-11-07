@@ -118,8 +118,6 @@ Após a análise inicial, os dados foram importados para o Power BI, onde desenv
 
 # Atividade 8 - Regressão Linear, uso de IA e visualizações
 
-# 📊 Análise de Dados — Expectativa de Vida
-
 ## 📝 Sobre a atividade
 
 Foi utilizada uma planilha de dados abertos sobre expectativa de vida, contendo diversas informações organizadas por entidades e códigos. A partir desses dados, foi desenvolvido um dashboard no Power BI para facilitar a visualização e a interpretação das informações.
