@@ -114,7 +114,8 @@ Neste projeto, trabalhamos com um conjunto de dados abertos sobre estabeleciment
 
 Após a análise inicial, os dados foram importados para o Power BI, onde desenvolvemos dashboards interativos para facilitar a visualização, a interpretação e a análise das informações.
 
-<img width="1288" height="699" alt="image" src="https://github.com/user-attachments/assets/3163125a-0a0b-461b-9483-fa97cf4dd715" />
+<img width="1288" height="699" alt="image" src="https://github.com/user-attachments/assets/3163125a-0a0b-461b-9483-fa97cf4dd715" /> 
+
 
 
 
