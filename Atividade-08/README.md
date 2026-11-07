@@ -93,3 +93,5 @@ A comparação teve como objetivo verificar se os dois modelos apresentam os mes
 <img width="712" height="410" alt="image" src="https://github.com/user-attachments/assets/6eb7aa3f-a9da-45f5-95a8-c97ad7c69e25" />
 
 
+
+Assim, podemos concluir que **SIM**, os gráficos são iguais!
