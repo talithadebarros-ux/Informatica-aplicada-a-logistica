@@ -12,6 +12,7 @@ A seguir, estão organizadas as atividades realizadas, apresentando o desenvolvi
 - [Atividade 5 – Dashboard de Empresas Multimodais](#atividade-5--dashboard-de-empresas-multimodais)
 - [Atividade 6 – Dashboard de Fecundidade](#atividade-6--dashboard-de-fecundidade)
 - [Atividade 7 – Power BI com figuras](#atividade-7--power-bi-com-figuras)
+- [Atividade 8 – Regressão Linear, uso de IA e visualizações](#atividade-8--regressão-linear-uso-de-ia-e-visualizações)
 
 # Atividade 1 – Quem é Quem?
 ## 📌 Descrição
